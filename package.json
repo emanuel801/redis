@@ -9,6 +9,7 @@
   "author": "Emanuel",
   "license": "Apache-2.0",
   "dependencies": {
+    "axios": "^1.6.7",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "redis": "^3.0.2"
